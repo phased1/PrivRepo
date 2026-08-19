@@ -1,6 +1,6 @@
 # Lucius Braun
 
-![Music Setup](<img width="5712" height="4284" alt="me" src="https://github.com/user-attachments/assets/ec938eb3-9987-42a8-accf-34fdd97cf766" />)
+![Music Setup](<img width="5712" height="4284" alt="me" src="https://github.com/user-attachments/assets/ec938eb3-9987-42a8-accf-34fdd97cf766" />) make image show
 
 ## Where are you from
 
