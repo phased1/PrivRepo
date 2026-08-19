@@ -12,7 +12,7 @@ Since I was a young child I have been deeply interested in electronics. When I w
 
 ## First Computing Device
 
-My first computing device was an Acer Aspire One D150[Aspire One D150](https://en.wikipedia.org/wiki/Acer_Aspire_One) (2009).
+My first computing device was an [Aspire One D150](https://en.wikipedia.org/wiki/Acer_Aspire_One) (2009).
 
 ## Something Interesting About You
 
